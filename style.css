@@ -1,0 +1,55 @@
+body{
+    background-color: #FF7F50;
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: lime;
+}
+
+.head1{
+    color: red;
+}
+
+p{
+    color: white;
+    font-size: 30px;
+}
+
+#para{
+    color: green;
+}
+
+.bpara{
+    color: black;
+    font-size: 40px;
+}
+
+.noincss{
+    color: black;
+    font-weight: bold;
+}
+
+ul li{
+    color: white;
+}
+
+a[href="https://www.google.com/"] {
+    background-color: blue;
+}
+
+a{
+    background-color: yellow;
+    color: black;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
